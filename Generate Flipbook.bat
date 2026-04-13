@@ -1,0 +1,1 @@
+python "./Assets/Generate_Flipbook.py"
