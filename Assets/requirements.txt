@@ -1,1 +1,2 @@
 pillow
+pyqt5

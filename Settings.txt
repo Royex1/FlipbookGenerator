@@ -1,3 +1,0 @@
-Dynamic Rows = 0
-Columns (X) = 3
-Rows (Y) = 3
