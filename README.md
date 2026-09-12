@@ -29,15 +29,18 @@ https://github.com/user-attachments/assets/e7bc52bf-0ac3-4b54-93ec-b29eca9aa65c
   
 - Generate Flipbook button will generate your flipbook based on the sprites you gave it
 
+### Notes
+- The tool will automatically create an output resolution depending on your Sprite count and number of Rows/Columns, for example if you have 100x100 Sprites and set Columns to 3 and Rows to 5, the output resolution will be (X * Columns), (Y * Rows) so the output will be 300x500
+
+- All Sprites/Textures must have the same resolution in order for the tool to work correctly
+
+- This tool still can't run on Mac/Linux, only Windows
+
 ## License
 The tool is mainly under MIT License but the GUI uses PyQT5 which's why it has GPLv3 License as well.
 
 to be more specific:
-- " Generate_Flipbook.py " uses MIT License
-- " GUI.py " uses GPLv3 License
+- " Generate_Flipbook.py " uses [MIT LICENSE](LICENSE)
+- " GUI.py " uses [GPLv3 LICENSE](LICENSE-GPL)
 
 So if you want to Modify/Distribute or sell the code while staying under MIT License just remove GUI.py and create your own GUI or your own method to run Generate_Flipbook.py
-
-[MIT LICENSE](LICENSE)
-
-[GPLv3 LICENSE](LICENSE-GPL)
