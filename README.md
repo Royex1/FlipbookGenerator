@@ -30,13 +30,14 @@ https://github.com/user-attachments/assets/e7bc52bf-0ac3-4b54-93ec-b29eca9aa65c
 - Generate Flipbook button will generate your flipbook based on the sprites you gave it
 
 ## License
-### Generate_Flipbook.py is licensed under the MIT License.
-See [LICENSE](LICENSE).
+The tool is mainly under MIT License but the GUI uses PyQT5 which's why it has GPLv3 License as well.
 
-You are free to use, modify, distribute, and sell this code,
-including in proprietary software.
+to be more specific:
+- " Generate_Flipbook.py " uses MIT License
+- " GUI.py " uses GPLv3 License
 
-### GUI.py is licensed under the GNU GPLv3.
-See [LICENSE-GPL](LICENSE-GPL).
+So if you want to Modify/Distribute or sell the code while staying under MIT License just remove GUI.py and create your own GUI or your own method to run Generate_Flipbook.py
 
-The GUI uses PyQt5, which's why it's licensed under GPLv3.
+[MIT LICENSE](LICENSE)
+
+[GPLv3 LICENSE](LICENSE-GPL)
