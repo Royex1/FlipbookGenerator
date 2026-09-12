@@ -5,9 +5,9 @@ This is a free tool that lets you generate flipbook images from a given sprites/
 - [Tutorial](#Tutorial)
 - [License](#License)
 ## Installation
-- Step 1: You need to have Python install in order to use the tool go to https://www.python.org/downloads/ to download it (My current Python version is 3.14)
+- Step 1: Download Python from https://www.python.org/downloads/ to be able to run the tool (My current Python version is 3.14)
   
-- Step 2: Run " Install Requirements.bat " to install the required libraries that the tool need to run (Pillow and PyQT5)
+- Step 2: Run " Install Requirements.bat " to install the required libraries that the tool need to work (Pillow and PyQT5)
   
 ## Tutorial
 
