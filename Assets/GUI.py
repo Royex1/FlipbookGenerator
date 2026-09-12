@@ -1,3 +1,6 @@
+# Copyright (c) 2026 John Kawar
+# SPDX-License-Identifier: GPL-3.0-only
+
 from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QApplication, QMainWindow
 

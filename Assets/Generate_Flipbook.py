@@ -1,3 +1,6 @@
+# Copyright (c) 2026 John Kawar
+# SPDX-License-Identifier: MIT
+
 import glob
 import os
 from PIL import Image
